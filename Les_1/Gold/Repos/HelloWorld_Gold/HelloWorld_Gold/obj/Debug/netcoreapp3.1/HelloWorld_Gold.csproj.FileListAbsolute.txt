@@ -1,0 +1,13 @@
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Gold\Repos\HelloWorld_Gold\HelloWorld_Gold\obj\Debug\netcoreapp3.1\HelloWorld_Gold.csprojAssemblyReference.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Gold\Repos\HelloWorld_Gold\HelloWorld_Gold\obj\Debug\netcoreapp3.1\HelloWorld_Gold.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Gold\Repos\HelloWorld_Gold\HelloWorld_Gold\obj\Debug\netcoreapp3.1\HelloWorld_Gold.AssemblyInfo.cs
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Gold\Repos\HelloWorld_Gold\HelloWorld_Gold\obj\Debug\netcoreapp3.1\HelloWorld_Gold.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Gold\Repos\HelloWorld_Gold\HelloWorld_Gold\bin\Debug\netcoreapp3.1\HelloWorld_Gold.exe
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Gold\Repos\HelloWorld_Gold\HelloWorld_Gold\bin\Debug\netcoreapp3.1\HelloWorld_Gold.deps.json
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Gold\Repos\HelloWorld_Gold\HelloWorld_Gold\bin\Debug\netcoreapp3.1\HelloWorld_Gold.runtimeconfig.json
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Gold\Repos\HelloWorld_Gold\HelloWorld_Gold\bin\Debug\netcoreapp3.1\HelloWorld_Gold.runtimeconfig.dev.json
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Gold\Repos\HelloWorld_Gold\HelloWorld_Gold\bin\Debug\netcoreapp3.1\HelloWorld_Gold.dll
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Gold\Repos\HelloWorld_Gold\HelloWorld_Gold\bin\Debug\netcoreapp3.1\HelloWorld_Gold.pdb
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Gold\Repos\HelloWorld_Gold\HelloWorld_Gold\obj\Debug\netcoreapp3.1\HelloWorld_Gold.dll
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Gold\Repos\HelloWorld_Gold\HelloWorld_Gold\obj\Debug\netcoreapp3.1\HelloWorld_Gold.pdb
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Gold\Repos\HelloWorld_Gold\HelloWorld_Gold\obj\Debug\netcoreapp3.1\HelloWorld_Gold.genruntimeconfig.cache

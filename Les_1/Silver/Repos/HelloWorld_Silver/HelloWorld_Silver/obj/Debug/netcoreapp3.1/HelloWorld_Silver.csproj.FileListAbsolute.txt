@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Silver\Repos\HelloWorld_Silver\HelloWorld_Silver\bin\Debug\netcoreapp3.1\HelloWorld_Silver.exe
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Silver\Repos\HelloWorld_Silver\HelloWorld_Silver\bin\Debug\netcoreapp3.1\HelloWorld_Silver.deps.json
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Silver\Repos\HelloWorld_Silver\HelloWorld_Silver\bin\Debug\netcoreapp3.1\HelloWorld_Silver.runtimeconfig.json
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Silver\Repos\HelloWorld_Silver\HelloWorld_Silver\bin\Debug\netcoreapp3.1\HelloWorld_Silver.runtimeconfig.dev.json
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Silver\Repos\HelloWorld_Silver\HelloWorld_Silver\bin\Debug\netcoreapp3.1\HelloWorld_Silver.dll
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Silver\Repos\HelloWorld_Silver\HelloWorld_Silver\bin\Debug\netcoreapp3.1\HelloWorld_Silver.pdb
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Silver\Repos\HelloWorld_Silver\HelloWorld_Silver\obj\Debug\netcoreapp3.1\HelloWorld_Silver.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Silver\Repos\HelloWorld_Silver\HelloWorld_Silver\obj\Debug\netcoreapp3.1\HelloWorld_Silver.AssemblyInfo.cs
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Silver\Repos\HelloWorld_Silver\HelloWorld_Silver\obj\Debug\netcoreapp3.1\HelloWorld_Silver.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Silver\Repos\HelloWorld_Silver\HelloWorld_Silver\obj\Debug\netcoreapp3.1\HelloWorld_Silver.dll
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Silver\Repos\HelloWorld_Silver\HelloWorld_Silver\obj\Debug\netcoreapp3.1\HelloWorld_Silver.pdb
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Silver\Repos\HelloWorld_Silver\HelloWorld_Silver\obj\Debug\netcoreapp3.1\HelloWorld_Silver.genruntimeconfig.cache

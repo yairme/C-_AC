@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Bronze\repos\TimeOpHetScherm\TimeOpHetScherm\bin\Debug\netcoreapp3.1\TimeOpHetScherm.exe
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Bronze\repos\TimeOpHetScherm\TimeOpHetScherm\bin\Debug\netcoreapp3.1\TimeOpHetScherm.deps.json
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Bronze\repos\TimeOpHetScherm\TimeOpHetScherm\bin\Debug\netcoreapp3.1\TimeOpHetScherm.runtimeconfig.json
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Bronze\repos\TimeOpHetScherm\TimeOpHetScherm\bin\Debug\netcoreapp3.1\TimeOpHetScherm.runtimeconfig.dev.json
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Bronze\repos\TimeOpHetScherm\TimeOpHetScherm\bin\Debug\netcoreapp3.1\TimeOpHetScherm.dll
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Bronze\repos\TimeOpHetScherm\TimeOpHetScherm\bin\Debug\netcoreapp3.1\TimeOpHetScherm.pdb
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Bronze\repos\TimeOpHetScherm\TimeOpHetScherm\obj\Debug\netcoreapp3.1\TimeOpHetScherm.csprojAssemblyReference.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Bronze\repos\TimeOpHetScherm\TimeOpHetScherm\obj\Debug\netcoreapp3.1\TimeOpHetScherm.Form1.resources
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Bronze\repos\TimeOpHetScherm\TimeOpHetScherm\obj\Debug\netcoreapp3.1\TimeOpHetScherm.csproj.GenerateResource.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Bronze\repos\TimeOpHetScherm\TimeOpHetScherm\obj\Debug\netcoreapp3.1\TimeOpHetScherm.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Bronze\repos\TimeOpHetScherm\TimeOpHetScherm\obj\Debug\netcoreapp3.1\TimeOpHetScherm.AssemblyInfo.cs
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Bronze\repos\TimeOpHetScherm\TimeOpHetScherm\obj\Debug\netcoreapp3.1\TimeOpHetScherm.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Bronze\repos\TimeOpHetScherm\TimeOpHetScherm\obj\Debug\netcoreapp3.1\TimeOpHetScherm.dll
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Bronze\repos\TimeOpHetScherm\TimeOpHetScherm\obj\Debug\netcoreapp3.1\TimeOpHetScherm.pdb
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_1\Periode_3\C#_AC\Les_1\Bronze\repos\TimeOpHetScherm\TimeOpHetScherm\obj\Debug\netcoreapp3.1\TimeOpHetScherm.genruntimeconfig.cache
